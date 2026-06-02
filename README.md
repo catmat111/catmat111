@@ -2,12 +2,12 @@
 
 ## Olá! 👋 Eu sou a Catarina Pereira de Matos
 
-<!-- Efeito de máquina de escrever dinâmico -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&pause=1000&color=40C057&center=true&vCenter=true&width=600&lines=Engenheira+Informática;Full-Stack+Developer;Foco+em+React+%26+Robótica;Em+busca+de+projetos+100%25+remotos!" alt="Typing SVG" />
-</p>
+### 👩‍💻 Engenheira Informática | 🚀 Full-Stack Developer
 
-Adoro criar aplicações web dinâmicas, desenvolver arquiteturas robustas e explorar o mundo da simulação.<br><br>
+Adoro criar aplicações web dinâmicas, desenvolver arquiteturas robustas e explorar o mundo da simulação.<br>
+🌱 *Atualmente em busca de oportunidades 100% remotas!*
+
+<br>
 
 <a href="https://catmat111.github.io/portfolio/">
   <img src="https://img.shields.io/badge/📂_Ver_o_meu_Portfólio-2b8a3e?style=for-the-badge&logoColor=white" alt="Portfólio"/>
@@ -15,38 +15,40 @@ Adoro criar aplicações web dinâmicas, desenvolver arquiteturas robustas e exp
 
 <br><br>
 
-### 💻 Tecnologias & Ferramentas
+### 🧠 Linguagens & Tecnologias
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,rust,python,cs,java,kotlin" alt="Linguagens e Tecnologias" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</div>
+### 🗄️ Bases de Dados & Dados
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Bases de Dados" />
+</p>
 
-<br>
+### 🛠️ Ferramentas & Sistemas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,tauri,linux,windows,androidstudio" alt="Ferramentas e Sistemas" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+### 📊 Produtividade & Análise de Dados
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" />
+</p>
 
 <br><br>
 
-### 📊 Estatísticas do GitHub
+### 🚀 Projetos em Destaque
 
-<!-- Estatísticas com fundo transparente para se adaptar a qualquer tema -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=catmat111&show_icons=true&theme=transparent&hide_border=true&title_color=40C057&icon_color=40C057&text_color=8b949e" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=catmat111&layout=compact&theme=transparent&hide_border=true&title_color=40C057&text_color=8b949e" height="150" alt="Linguagens mais usadas" />
-</p>
+Nesta secção, uso as ferramentas do próprio GitHub para mostrar os meus repositórios.
 
-<br>
+| 🌿 Matcha Garden |
+| :---: |
+| Aplicação multiplataforma focada em performance e UX. <br> *(Rust, Tauri, Node.js)* |
+| <a href="https://github.com/catmat111/cute-timer-app/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Ver_Projeto-333?style=for-the-badge&logo=github&logoColor=white"/></a> |
+
+<br><br>
 
 ### 📫 Vamos falar!
 
