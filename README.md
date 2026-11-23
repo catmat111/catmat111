@@ -17,7 +17,7 @@ Adoro criar aplicações web dinâmicas, desenvolver arquiteturas robustas e exp
 
 ### 🧠 Linguagens & Tecnologias
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,.net,nodejs,rust,ruby,python,cs,java,kotlin" alt="Linguagens e Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,rust,ruby,python,cs,java,kotlin" alt="Linguagens e Tecnologias" />
 </p>
 
 ### 🗄️ Bases de Dados & Dados
