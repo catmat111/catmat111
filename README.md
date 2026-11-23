@@ -27,7 +27,7 @@ Adoro criar aplicações web dinâmicas, desenvolver arquiteturas robustas e exp
 
 ### 🛠️ Ferramentas & Sistemas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,tauri,linux,windows,androidstudio" alt="Ferramentas e Sistemas" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,tauri,linux,windows,androidstudio" alt="Ferramentas e Sistemas" />
 </p>
 
 ### 📊 Produtividade & Análise de Dados
